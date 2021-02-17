@@ -1,4 +1,4 @@
-FROM jetbrains/teamcity-agent:2020.1.5-linux-sudo
+FROM jetbrains/teamcity-agent:2020.2.2-linux-sudo
 
 MAINTAINER Sérgio Peixoto <sergio.peixoto@gmail.com>
 
